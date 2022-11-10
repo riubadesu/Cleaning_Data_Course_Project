@@ -11,7 +11,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 # The project include 
 
-  * The data set  *tided_dataset.txt*
+  * The data set  *tidied_dataset.txt*
   * R script *run_analysis.R*
   * CodeBook *CodeBook.md*
   * this README fille *README.md*
