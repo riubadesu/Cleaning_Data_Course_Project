@@ -50,5 +50,5 @@ library(dplyr)
 
 result_data <- data_all %>%  group_by(subject,activity)  %>%  summarise_each(funs(mean))
 
-write.table(result_data, file="tided_dataset.txt")
+write.table(result_data, file="tided_dataset.txt",row.name=FALSE)
                                                                           
